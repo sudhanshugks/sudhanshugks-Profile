@@ -1,10 +1,7 @@
 <div align="center">
-
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sudhanshu%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Research&descAlignY=55&descSize=18" />
-
 </div>
-
 ---
 
 ##  About Me

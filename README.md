@@ -1,94 +1,159 @@
 <div align="center">
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sudhanshu%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Research&descAlignY=55&descSize=18" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:0a3d62&height=220&section=header&text=Sudhanshu%20Kumar&fontSize=52&fontColor=e0f2fe&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Research&descAlignY=56&descSize=17&descColor=7dd3fc" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+at+the+intersection+of+data+and+design.;B.Tech+CSE+%40+Chandigarh+University+%E2%80%94+Class+of+2027;Researcher+%7C+Builder+%7C+Open-source+contributor)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshugks)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/sudhanshugks)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ksudhanshugollu2001@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:sudhanhugks@outlook.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sudhanshugks&color=38bdf8&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-##  About Me
+## `$ whoami`
 
 ```python
-sudhanshu = {
-    "education"  : "B.Tech CSE @ Chandigarh University (2027)",
-    "focus"      : ["Data Science", "Machine Learning", "Full-Stack Dev"],
-}
+class Sudhanshu:
+    name       = "Sudhanshu Kumar"
+    degree     = "B.Tech Computer Science Engineering"
+    university = "Chandigarh University"
+    batch      = 2027
+    location   = "India 🇮🇳"
+
+    focus = [
+        "Data Science & Machine Learning",
+        "Full-Stack Web Developer",
+        "Cloud Infrastructure (OCI · GCP)",
+    ]
+
+    currently  = "Building ClaudeRelay — solving Claude's usage limit problem with a browser extension"
 ```
 
 ---
 
-##  Tech Stack
+## `$ ls ./tech-stack`
 
 <div align="center">
 
-**Languages**
+### Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-**Frontend & Backend**
+### Cloud, Data & Tools
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Antigravity](https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&logo=antigravity&logoColor=00FFFF)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Cloud & Tools**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-##  Featured Projects
+## `$ cat ./projects`
 
-| 🔬 Project | 💡 Description | 🛠️ Stack |
-|---|---|---|
-| **Smart Air Quality Monitoring** 🏆 | Patented IoT system for real-time air quality tracking with sensor data analytics | Python, Embedded Systems, IoT Sensors |
-| **Hospital Management System** 🏥 | Full-stack platform connecting patients, doctors & admins with appointment booking & records | React, Express, MongoDB, Node.js |
-| **Smart Alarm System** ⏰ | Intelligent alarm with custom trigger logic and GUI | Python, Tkinter |
-| **Number Guessing Game** 🎮 | Interactive CLI game with logic and difficulty modes | Java |
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><b> Smart Air Quality Monitor</b></td>
+<td>Patented IoT system for real-time air quality tracking with multi-sensor fusion, edge analytics, and live dashboards. Research presented at ICCTWC.</td>
+<td><code>Python</code> <code>IoT</code> <code>Embedded C</code> <code>Data Analytics</code></td>
+<td><img src="https://img.shields.io/badge/Patented-brightgreen?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><b> Hybrid Malware Detector</b></td>
+<td>ML-based malware detection system combining static + dynamic analysis features. Peer-reviewed research paper; presented at ICCTWC international conference.</td>
+<td><code>Python</code> <code>Scikit-learn</code> <code>Feature Engineering</code></td>
+<td><img src="https://img.shields.io/badge/Research%20Paper-blue?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><b> Hospital Management System</b></td>
+<td>Full-stack MERN platform for patients, doctors & admins. Features appointment scheduling, medical records, authentication & role-based access control.</td>
+<td><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Redux</code></td>
+<td><img src="https://img.shields.io/badge/Live-38bdf8?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><b> Smart Alarm System</b></td>
+<td>Intelligent desktop alarm with conditional trigger logic, snooze scheduling, notification management and a clean Tkinter GUI.</td>
+<td><code>Python</code> <code>Tkinter</code> <code>Threading</code></td>
+<td><img src="https://img.shields.io/badge/Complete-gray?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><b> Number Guessing Game</b></td>
+<td>Feature-rich CLI game with difficulty tiers (Easy/Medium/Hard), adaptive hints, score tracking and replay logic.</td>
+<td><code>Java</code> <code>OOP</code> <code>CLI</code></td>
+<td><img src="https://img.shields.io/badge/Complete-gray?style=flat-square"/></td>
+</tr>
+
+</tbody>
+</table>
+
+> 💡 *More projects on my [GitHub profile →](https://github.com/sudhanshugks)*
 
 ---
 
-##  Certifications & Achievements
+## `$ cat ./achievements`
 
--  **ICCTWC Conference Speaker** — Presented research on Hybrid Malware Detection
--  **Oracle Cloud Business Jumpstart** — Oracle (2024)
--  **Google Project Management + Generative AI** — Google (2024)
--  **Microsoft UX Design** — Microsoft (2025)
--  **Databases & SQL for Data Science with Python** — Coursera/IBM (2025)
--  **IoT Workshop + Coding Competition** — (2025)
+```
+[2025]    Microsoft UX Design Certificate             — Microsoft
+[2025]    Databases & SQL for Data Science            — Coursera / IBM
+[2025]    IoT Workshop + Coding Competition           — 1st Place
+[2024]    ICCTWC Conference Speaker                   — Hybrid Malware Detection Research
+[2024]    Oracle Cloud Business Jumpstart             — Oracle
+[2024]    Google Project Management + Gen AI          — Google
+[2024]    IoT System Patent Filed                     — Smart Air Quality Monitoring
+```
 
 ---
 
-</div>
-
----
-
-##  Let's Connect
+## `$ git log --stat`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshugks)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhanshugks)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksudhanshugollu2001@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sudhanhugks@outlook.com)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sudhanshugks&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&hide_border=false&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshugks&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=38bdf8&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshugks&theme=github-dark-blue&background=0d1117&border=21262d&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
 
 </div>
 
 ---
 
-*"Data tells a story. I make sure it's heard."* 
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudhanshugks&color=00d4ff&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0a0f1e&height=100&section=footer" />
 
 </div>

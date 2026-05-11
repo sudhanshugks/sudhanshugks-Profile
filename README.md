@@ -29,6 +29,7 @@ class Sudhanshu:
     location   = "India 🇮🇳"
 
     focus = [
+        "Gen AI Engineer",
         "Data Science & Machine Learning",
         "Full-Stack Web Developer",
         "Cloud Infrastructure (OCI · GCP)",

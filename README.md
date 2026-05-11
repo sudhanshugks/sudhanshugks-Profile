@@ -75,7 +75,6 @@ class Sudhanshu:
 <th>Project</th>
 <th>Description</th>
 <th>Stack</th>
-<th>Status</th>
 </tr>
 </thead>
 <tbody>
@@ -84,41 +83,34 @@ class Sudhanshu:
 <td><b> Smart Air Quality Monitor</b></td>
 <td>Patented IoT system for real-time air quality tracking with multi-sensor fusion, edge analytics, and live dashboards. Research presented at ICCTWC.</td>
 <td><code>Python</code> <code>IoT</code> <code>Embedded C</code> <code>Data Analytics</code></td>
-<td><img src="https://img.shields.io/badge/Patented-brightgreen?style=flat-square"/></td>
 </tr>
 
 <tr>
 <td><b> Hybrid Malware Detector</b></td>
 <td>ML-based malware detection system combining static + dynamic analysis features. Peer-reviewed research paper; presented at ICCTWC international conference.</td>
 <td><code>Python</code> <code>Scikit-learn</code> <code>Feature Engineering</code></td>
-<td><img src="https://img.shields.io/badge/Research%20Paper-blue?style=flat-square"/></td>
 </tr>
 
 <tr>
 <td><b> Hospital Management System</b></td>
 <td>Full-stack MERN platform for patients, doctors & admins. Features appointment scheduling, medical records, authentication & role-based access control.</td>
 <td><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Redux</code></td>
-<td><img src="https://img.shields.io/badge/Live-38bdf8?style=flat-square"/></td>
 </tr>
 
 <tr>
 <td><b> Smart Alarm System</b></td>
 <td>Intelligent desktop alarm with conditional trigger logic, snooze scheduling, notification management and a clean Tkinter GUI.</td>
 <td><code>Python</code> <code>Tkinter</code> <code>Threading</code></td>
-<td><img src="https://img.shields.io/badge/Complete-gray?style=flat-square"/></td>
 </tr>
 
 <tr>
 <td><b> Number Guessing Game</b></td>
 <td>Feature-rich CLI game with difficulty tiers (Easy/Medium/Hard), adaptive hints, score tracking and replay logic.</td>
 <td><code>Java</code> <code>OOP</code> <code>CLI</code></td>
-<td><img src="https://img.shields.io/badge/Complete-gray?style=flat-square"/></td>
 </tr>
 
 </tbody>
 </table>
-
-> 💡 *More projects on my [GitHub profile →](https://github.com/sudhanshugks)*
 
 ---
 
@@ -137,23 +129,7 @@ class Sudhanshu:
 ---
 
 ## `$ git log --stat`
-
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sudhanshugks&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&hide_border=false&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshugks&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=38bdf8&text_color=c9d1d9&langs_count=6" />
-
 <br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshugks&theme=github-dark-blue&background=0d1117&border=21262d&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0a0f1e&height=100&section=footer" />
-
 </div>
